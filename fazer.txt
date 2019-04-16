@@ -1,0 +1,5 @@
+instalar o mysql
+criar o banco
+
+npm install --save sequelize
+npm install --save mysql2

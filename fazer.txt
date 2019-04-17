@@ -7,3 +7,11 @@ criar o banco
 
 npm install --save sequelize
 npm install --save mysql2
+
+D:\worknode>git checkout origin/master -- fazer.txt
+git checkout head --force
+mysql -h localhost -u root -p
+
+describe postagens;
+
+npm install --save express-handlebars; kkkk;

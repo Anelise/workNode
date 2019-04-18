@@ -14,7 +14,7 @@ app.get("/contato",function(req,res){
 });
 
 app.get("/blog/:nome/:cargo",function(req,res){
-	res.send("Pagina de blog"+req.params.nome+req.params.cargo);
+	res.send("Pagina de blog"+req.params.nome+req.params.cargo);ççççççç
 });
 
 

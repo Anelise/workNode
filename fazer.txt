@@ -14,4 +14,4 @@ mysql -h localhost -u root -p
 
 describe postagens;
 
-npm install --save express-handlebars; kkkk;
+npm install --save express-handlebars;

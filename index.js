@@ -18,4 +18,4 @@ app.get("/blog/:nome/:cargo",function(req,res){
 });
 
 
-app.listen(8081	, function(){console.log("Servidor rodando")});
+app.listen(8081	, function(){console.log("Servidor rodando")});cdccdddcdcdc
